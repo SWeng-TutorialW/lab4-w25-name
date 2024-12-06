@@ -11,7 +11,7 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi abed,   We are using Git ! ! !"
+		   text="Hi abed, We are using Git!!!"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
